@@ -1,87 +1,91 @@
 # Hi 👋, I'm Ayesha
 
-### 👩‍💻 About Me
-I’m a Computer Science student (6th semester) passionate about turning ideas into functional software — from dynamic web applications to logic-driven console and game projects. I enjoy exploring both the frontend and backend, understanding how systems work under the hood, and experimenting with new technologies.
+<div align="center">
+  <h3>👩‍💻 About Me</h3>
+  I’m a Computer Science student (6th semester) passionate about turning ideas into functional software — from dynamic web applications to logic-driven console and game projects.  
+  I enjoy exploring both frontend & backend, understanding systems under the hood, and experimenting with new technologies.
+</div>
 
 ---
 
-### 🔭 Currently Working On
-- Full-stack web projects using the MERN stack  
-- Small console-based games  
-- AI/data science experiments  
-- Building a professional portfolio of practical applications
+## 🔭 Currently Working On
+- Full-stack web projects using **MERN stack**  
+- Small console-based games in **C++ & C#**  
+- AI & data science experiments  
+- Building a **professional portfolio** of practical applications
 
 ---
 
-### 👯 Looking to Collaborate On
-- Web development projects (frontend & MERN stack)  
-- Game development in C# or C++  
-- Beginner-to-intermediate AI or data-driven projects
+## 👯 Looking to Collaborate On
+- Web development projects (**frontend & MERN stack**)  
+- Game development (**C++ / C#**)  
+- Beginner-to-intermediate AI / data-driven projects  
 
 ---
 
-### 🤝 Looking for Guidance With
-- Backend architecture  
-- Real-world project structure  
-- Integrating databases  
-- Scaling projects beyond tutorials
+## 🤝 Looking for Guidance With
+- Backend architecture & real-world project structure  
+- Database integration & optimization  
+- Scaling projects beyond tutorials  
 
 ---
 
-### 🌱 Currently Learning
-- Backend development with PHP & Firebase  
-- React with TypeScript  
+## 🌱 Currently Learning
+- Backend development with **PHP & Firebase**  
+- **React + TypeScript**  
 - AI & data science applications  
-- Software design & computer architecture
+- Software design & computer architecture  
 
 ---
 
-### 💬 Ask Me About
-HTML, CSS, JavaScript, Bootstrap, jQuery, MERN stack projects, C++ console applications, game development, and building practical student-level projects
+## 💬 Ask Me About
+HTML, CSS, JavaScript, Bootstrap, jQuery, MERN stack projects, C++ console applications, game development, and building practical student-level projects  
 
 ---
 
-### ⚡ Fun Fact
-I enjoy building complex logic-driven systems in the console as much as creating sleek, responsive web UIs — combining logic with design is what excites me.
+## ⚡ Fun Fact
+I enjoy building complex logic-driven systems in the console as much as creating sleek, responsive web UIs — combining logic with design is my passion.
 
 ---
 
-### 🚀 Languages and Tools I Use
-<p>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42" height="42" alt="Bootstrap"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"></a>
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle"></a>
-<a href="https://cdn.worldvectorlogo.com/logos/django.svg" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42" height="42" alt="Django"></a>
-<a href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" alt="Figma"></a>
-<a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git"></a>
+## 🚀 Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
 </p>
 
 ---
 
-### ⚡ Where to Find Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/www.linkedin.com/in/ayesha-rauf-44432336b)
+## ⚡ Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/ayesha-rauf-44432336b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayesharauf.189@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Ayesha Rauf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayesha%20Rauf&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayesha%20Rauf)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ayesha%20Rauf&show_icons=true&locale=en&layout=compact)
-
----
-
-### 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayesha%20Rauf)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha%20Rauf&show_icons=true&locale=en" alt="Ayesha Rauf's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha%20Rauf" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayesha%20Rauf&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
