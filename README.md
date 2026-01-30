@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ayesha
 
-<div align="center">
+<div align="left">
   <h3>👩‍💻 About Me</h3>
   I’m a Computer Science student (6th semester) passionate about turning ideas into functional software — from dynamic web applications to logic-driven console and game projects.  
   I enjoy exploring both frontend & backend, understanding systems under the hood, and experimenting with new technologies.
