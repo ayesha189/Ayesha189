@@ -86,7 +86,8 @@ I enjoy building complex logic-driven systems in the console as much as creating
 ## 📊 GitHub Stats
 <p align="center">
  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ayesha189" alt="GitHub Streak"/>
+
 
  
 </p>
