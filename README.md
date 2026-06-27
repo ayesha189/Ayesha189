@@ -18,7 +18,7 @@
 
 ## 👯 Looking to Collaborate On
 - Web development projects (**frontend & MERN stack**)  
-- Game development (**C++ / C#**)  
+- Game development (**C++/Python**)  
 - Beginner-to-intermediate AI / data-driven projects  
 
 ---
