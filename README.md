@@ -10,7 +10,7 @@
 
 ## 🔭 Currently Working On
 - Full-stack web projects using **MERN stack**  
-- Small console-based games in **C++ & C#**  
+- Small console-based games in **C++ &**  
 - AI & data science experiments  
 - Building a **professional portfolio** of practical applications
 
